@@ -1,5 +1,4 @@
 <h1>Hey, I'm Connor W. 👋</h1>
-<hr>
 <p>Hello explorer, I'm Connor a young developer from Germany.</p>
 <p>I'm very exerienced at making minecraft servers and writing ![skripts](https://github.com/SkriptLang/Skript).</p>
 
