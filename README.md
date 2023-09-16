@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hello explorer, I'm Connor a young developer from Germany. I very exerienced at making minecraft servers and writing ![skripts](https://github.com/SkriptLang/Skript)
 
 ![sluhtie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true)
 
