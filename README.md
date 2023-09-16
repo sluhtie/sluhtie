@@ -1,13 +1,13 @@
-<h1>Hey, I'm Connor W. 👋</h1>
+<center><h1>Hey, I'm Connor W. 👋</h1></center>
 <p>Hello explorer, I'm Connor a young developer from Germany.</p>
 <p>I'm very exerienced at making minecraft servers and writing ![skripts](https://github.com/SkriptLang/Skript).</p>
 
 <p>I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.</p>
 
-<h2>Proramming languages and tools I use 🌎</h2>
+<center><h2>Proramming languages and tools I use 🌎</h2></center>
 
-<h2>Github Statistics ✨</h2>
-<img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true' />
+<center><h2>Github Statistics ✨</h2></center>
+<center><img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true' /></center>
 
 <!--
 **sluhtie/sluhtie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
