@@ -8,15 +8,19 @@
 
 <!-- Interests -->
 <h2 align="center" >Proramming languages and tools I use ⚡</h2>
-<ul>
-    <li><strong><a href="https://github.com/rexlManu/la-dpsmeter">la-dpsmeter</a>:</strong> A DPS meter for the game LostArk that helped me learn about networking and sniffing with tools like npcap.</li>
-	<li><strong><a href="https://github.com/rexlManu/viaversion-addon">viaversion-addon</a>:</strong> A Labymod addon that adds Viaversion clientside.</li>
-	<li><strong><a href="https://github.com/rexlManu/nginxproxymanager-trafficsplit">nginxproxymanager-traf</a>:</strong> A tool to store nginx logs from <a href="https://nginxproxymanager.com">NginxProxyManager</a> into InfluxDB for integration with Grafana.</li>
-	<li><strong><a href="https://github.com/rexlManu/keshi-cli">keshi-cli</a>:</strong> A simple CLI for running commands concurrently.</li>
-	<li><strong><a href="https://github.com/rexlManu/goflink-discount-checker">goflink-discount-checker</a>:</strong> A tool to check discount codes in bulk to see if they are valid for Goflink.</li>
-	<li><strong><a href="https://github.com/miopowered">miopowered</a>:</strong> An organization that contains libraries and tools for creating Spigot plugins.</li>
-        <li><strong><a href="https://github.com/rexlManu/pterodactyl-upload-action">pterodactyl-upload-action</a>:</strong> A GitHub Action for efficient multi-server file uploads to Pterodactyl with proxy support.</li>
-</ul>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/-Proxmox-2C3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/-Hetzner-FFB900?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+<img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+<img src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/-Minecraft-47A8E6?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+<img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 
 <!-- Statistics -->
 <h2 align="center" >Github Statistics ✨</h2>
