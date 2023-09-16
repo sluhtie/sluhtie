@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![sluhtie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical)
+![sluhtie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true)
 
 <!--
 **sluhtie/sluhtie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
