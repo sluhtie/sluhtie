@@ -1,12 +1,14 @@
-### Hi there 👋
-Hello explorer, I'm Connor a young developer from Germany.
-I'm very exerienced at making minecraft servers and writing ![skripts](https://github.com/SkriptLang/Skript).
+<h1>Hey, I'm Connor W. 👋</h1>
+<hr>
+<p>Hello explorer, I'm Connor a young developer from Germany.</p>
+<p>I'm very exerienced at making minecraft servers and writing ![skripts](https://github.com/SkriptLang/Skript).</p>
 
-I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.
-Programming languages that I use/learn: Python, Java, JavaScript
+<p>I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.</p>
 
-## Github Statistics ✨
-![sluhtie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true)
+<h2>Proramming languages and tools I use 🌎</h2>
+
+<h2>Github Statistics ✨</h2>
+<img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true' />
 
 <!--
 **sluhtie/sluhtie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
