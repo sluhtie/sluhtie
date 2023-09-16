@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
+<!-- Projects -->
+<h2 align="center" >Projects ✨</h2>
+<p align="center" >
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=github-readme-stats' >
+</p>
+
 <!-- Statistics -->
 <h2 align="center" >Github Statistics ✨</h2>
 <p align="center" >
