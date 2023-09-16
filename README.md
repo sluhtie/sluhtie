@@ -1,7 +1,7 @@
 <h1 align="center" >Hey, I'm Connor W. 👋</h1>
 <p align="center" >Hello explorer, I'm Connor a young developer from Germany.<br>I'm very exerienced at making minecraft servers and writing ![skripts](https://github.com/SkriptLang/Skript).</p>
 
-<p>I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.</p>
+<p align="center" >I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.</p>
 
 <h2 align="center" >Proramming languages and tools I use 🌎</h2>
 
