@@ -29,7 +29,7 @@
 <h2 align="center" >Github Statistics ✨</h2>
 <p align="center" >
   <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true' >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=radical" width="49%" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=radical" >
 </p>
 
 <!--
