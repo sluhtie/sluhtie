@@ -3,7 +3,7 @@
 <p align="center" >
   Hello explorer, I'm Connor a young developer from Germany.<br>
   I'm very exerienced at making minecraft servers and writing <a target='_blank' href='https://github.com/SkriptLang/Skript'>skripts</a>.<br><br>
-  I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.\
+  I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.
 </p>
 
 <!-- Interests -->
