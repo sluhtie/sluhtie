@@ -7,7 +7,7 @@
 </p>
 
 <!-- Interests -->
-<h2 align="center" >Proramming languages and tools I use ⚡</h2>
+<h2 align="center" >Programming languages and tools I use ⚡</h2>
 <p align="center">
   <!--<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
