@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <h1 align="center" >Hey, I'm Connor W. 👋</h1>
-<p align="center" >Hello explorer, I'm Connor a young developer from Germany.<br>I'm very exerienced at making minecraft servers and writing <a href='https://github.com/SkriptLang/Skript'>skripts.</p>
+<p align="center" >Hello explorer, I'm Connor a young developer from Germany.<br>I'm very exerienced at making minecraft servers and writing <a target='_blank' href='https://github.com/SkriptLang/Skript'>skripts</a>.</p>
 
 <p align="center" >I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.</p>
 
