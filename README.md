@@ -1,10 +1,11 @@
 ### Hi there 👋
-[center]Hello explorer, I'm Connor a young developer from Germany.
+<center>Hello explorer, I'm Connor a young developer from Germany.
 I'm very exerienced at making minecraft servers and writing ![skripts](https://github.com/SkriptLang/Skript).
 
 I am currently completing my high school diploma at the ITECH BS14 technical school in Hamburg, Germany.
 Programming languages that I use/learn: Python, Java, JavaScript
 
+## Github Statistics ✨
 ![sluhtie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=radical&hide_rank=true)
 
 <!--
