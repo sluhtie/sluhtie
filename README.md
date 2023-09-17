@@ -34,7 +34,7 @@
   <a href="https://discord.gg/NeSpWMmrum" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://t.me/sluhtie" target="_blank">
+  <a href="https://t.me/connorhmb" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
