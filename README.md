@@ -12,7 +12,6 @@
 </p>
 
 <!-- Interests -->
-<br>
 <h2 align="center" >Programming languages and tools I use 🛠</h2> 
 
 <p align="center">
@@ -40,7 +39,6 @@
 </p> -->
 
 <!-- Projects -->
-<br>
 <h2 align="center" >Contact & Commissions ✨</h2>
 
 <p align="center">
