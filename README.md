@@ -39,8 +39,7 @@
   </a>
 </p>
 
-> In order to ensure both security and trust in our commission projects, I require a 40% down payment upfront.<br>
-This 40% down payment requirement helps ensure project security and commitment.
+> In order to ensure both security and trust in our commission projects, I require a 40% down payment upfront.
 
 
 <!-- Languages & Tools -->
