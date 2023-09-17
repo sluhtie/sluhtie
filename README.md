@@ -9,8 +9,10 @@
     I am currently completing my high school diploma at a technical school in Hamburg, Germany.<br>
     Contact me for comissions or other requests via email.
   </p>
+  <p align="center">
+    <a  href="https://arcadegames.one" target="_blank"><img src="https://img.shields.io/badge/Project-ArcadeGames-a619e3?labelColor=5c5c5c" /></a>
+  </a>
 </p>
-
 
 <!-- Contact & Comissions -->
 <br>
@@ -62,7 +64,7 @@ Currently I am also learning the programming languages **Python**, **Java** and 
 
 <!-- Statistics -->
 <br>
-<h2 align="left" >&#8250; Github Statistics 📊</h2>
+<h2 align="center" >📊 Github Statistics 📊</h2>
 <p align="center" >
   <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true' >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight&hide_border=true" >
