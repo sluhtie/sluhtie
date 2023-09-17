@@ -69,8 +69,8 @@
 <!-- Statistics -->
 <h2 align="center" >Github Statistics 📊</h2>
 <p align="center" >
-  <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&rank_icon=github' >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight" >
+  <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true' >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight&hide_border=true" >
 </p>
 
 <!--
