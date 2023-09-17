@@ -40,7 +40,7 @@
 </p>
 
 > In order to ensure both security and trust in our commission projects, I require a 40% down payment upfront.<br>
-This practice not only safeguards against potential scams but also helps to prioritize commitment to the project's successful completion.
+This 40% down payment requirement helps ensure project security and commitment.
 
 
 <!-- Languages & Tools -->
