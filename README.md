@@ -1,5 +1,4 @@
 <!-- Introduction -->
-<br>
 <h1 align="center" >👋 Hey, I'm Connor!</h1>
 <p>
   <p align="center">
