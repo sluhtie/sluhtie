@@ -12,6 +12,7 @@
 </p>
 
 <!-- Interests -->
+<br>
 <h2 align="center" >Programming languages and tools I use 🛠</h2> 
 
 <p align="center">
@@ -39,6 +40,7 @@
 </p> -->
 
 <!-- Projects -->
+<br>
 <h2 align="center" >Contact & Commissions ✨</h2>
 
 <p align="center">
@@ -67,23 +69,9 @@
 <p align="center">I take a **40% down payment** for all my comissions!<p>
 
 <!-- Statistics -->
+<br>
 <h2 align="center" >Github Statistics 📊</h2>
 <p align="center" >
   <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true' >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight&hide_border=true" >
 </p>
-
-<!--
-**sluhtie/sluhtie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
