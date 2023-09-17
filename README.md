@@ -1,13 +1,19 @@
 <!-- Introduction -->
-<h1 align="center" >Hello explorer 👋</h1>
-<p align="center" >
-  I'm Connor, a young developer from Germany.<br>
-  I'm very experienced at making Minecraft servers and writing <a target='_blank' href='https://github.com/SkriptLang/Skript'>scripts</a>.<br><br>
-  I am currently completing my high school diploma at a technical school in Hamburg, Germany.
+<h1 align="center" >Hello, unknown user 👋</h1>
+<p>
+  <p align="center">
+    I'm Connor, a young developer from Germany.<br>
+    I'm very experienced at making Minecraft servers and writing <a target='_blank' href='https://github.com/SkriptLang/Skript'>scripts</a>.
+  </p>
+  <p align="center">
+    I am currently completing my high school diploma at a technical school in Hamburg, Germany.<br>
+    Contact me for comissions or other requests via email.
+  </p>
 </p>
 
 <!-- Interests -->
-<h2 align="center" >Programming languages and tools I use 🛠</h2>
+<h2 align="center" >Programming languages and tools I use 🛠</h2> 
+
 <p align="center">
   <!--<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -31,6 +37,34 @@
 <p align="center" >
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=sluhtie&repo=texturepacks' >
 </p> -->
+
+<!-- Projects -->
+<h2 align="center" >Contact & Comissions ✨</h2>
+
+<p align="center">
+  Feel free to contact me for any comissions or requests.<br>
+  My prices completetly depend on the customer's request and will be given individually.<br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sluhtie" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/sluhtie" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:connor@cwcodes.de" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.gg/NeSpWMmrum" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/sluhtie" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+<p align="center">I take a **40% down payment** for all my comissions!<p>
 
 <!-- Statistics -->
 <h2 align="center" >Github Statistics 📊</h2>
