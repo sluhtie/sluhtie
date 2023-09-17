@@ -39,7 +39,8 @@
   </a>
 </p>
 
-<p align="left">I take a <b>40% down payment</b> for all my comissions!<p>
+> In order to ensure both security and trust in our commission projects, I require a 40% down payment upfront.<br>
+This practice not only safeguards against potential scams but also helps to prioritize commitment to the project's successful completion.
 
 
 <!-- Languages & Tools -->
