@@ -47,7 +47,7 @@
 
 
 <!-- Interests -->
-<h2 align="left" >&#8250; Programming languages and tools I use 🛠</h2> 
+<h2 align="left" >&#8250; Languages & Tools 🛠</h2> 
 
 <p align="left">
   <!--<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -68,7 +68,7 @@
 </p>
 <hr>
 <!-- Statistics -->
-<h2 align="left" >Github Statistics 📊</h2>
+<h2 align="left" >&#8250; Github Statistics 📊</h2>
 <p align="left" >
   <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true' >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight&hide_border=true" >
