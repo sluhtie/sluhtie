@@ -46,7 +46,7 @@
 <br>
 <h2 align="left" >&#8250; Languages & Tools 🛠</h2> 
 
-<p align="center">
+<p align="left">
   <!--<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
@@ -68,7 +68,7 @@
 <!-- Statistics -->
 <br>
 <h2 align="left" >&#8250; Github Statistics 📊</h2>
-<p align="left" >
+<p align="center" >
   <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true' >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight&hide_border=true" >
 </p>
