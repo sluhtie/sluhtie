@@ -66,7 +66,7 @@
   </a>
 </p>
 
-<p align="center">I take a **40% down payment** for all my comissions!<p>
+<p align="center">I take a <b>40% down payment</b> for all my comissions!<p>
 
 <!-- Statistics -->
 <br>
