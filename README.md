@@ -51,10 +51,13 @@
   <img src="https://img.shields.io/badge/-Adminer-47A8E6?style=for-the-badge&logo=adminer&logoColor=white" alt="Adminer" />
   <img src="https://img.shields.io/badge/-Java-f58219?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/-Skript-c44ad4?style=for-the-badge&logoColor=white&logo=" alt="Skript" />
+  <img src="https://img.shields.io/badge/-Figma-c44ad4?style=for-the-badge&logoColor=white&logo=figma" alt="Figma" />
   <img src="https://img.shields.io/badge/-Minecraft-22a33c?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
+
+These are just some of the tools I use to bring my Ideas to reality.<br>
+Currently I am also learning the programming languages **Python**, **Java** and **JavaScript**
 
 
 <!-- Statistics -->
