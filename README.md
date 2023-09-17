@@ -1,11 +1,11 @@
 <!-- Introduction -->
-<h1 align="center" >👋 Hey, I'm Connor!</h1>
+<h1 align="left" >👋 Hey, I'm Connor!</h1>
 <p>
-  <p align="center">
+  <p align="left">
     I'm Connor, a young developer from Germany.<br>
     I'm very experienced at making Minecraft servers and writing <a target='_blank' href='https://github.com/SkriptLang/Skript'>scripts</a>.
   </p>
-  <p align="center">
+  <p align="left">
     I am currently completing my high school diploma at a technical school in Hamburg, Germany.<br>
     Contact me for comissions or other requests via email.
   </p>
@@ -68,8 +68,8 @@
 </p>
 <hr>
 <!-- Statistics -->
-<h2 align="center" >Github Statistics 📊</h2>
-<p align="center" >
+<h2 align="left" >Github Statistics 📊</h2>
+<p align="left" >
   <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true' >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight&hide_border=true" >
 </p>
