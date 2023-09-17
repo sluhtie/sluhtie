@@ -1,11 +1,12 @@
 <!-- Introduction -->
-<h1 align="left" >👋 Hey, I'm Connor!</h1>
+<br>
+<h1 align="center" >👋 Hey, I'm Connor!</h1>
 <p>
-  <p align="left">
+  <p align="center">
     I'm Connor, a young developer from Germany.<br>
     I'm very experienced at making Minecraft servers and writing <a target='_blank' href='https://github.com/SkriptLang/Skript'>scripts</a>.
   </p>
-  <p align="left">
+  <p align="center">
     I am currently completing my high school diploma at a technical school in Hamburg, Germany.<br>
     Contact me for comissions or other requests via email.
   </p>
@@ -17,6 +18,7 @@
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=sluhtie&repo=texturepacks' >
 </p> -->
 <hr>
+<br>
 <!-- Projects -->
 <h2 align="left" >&#8250; Contact & Commissions ✨</h2>
 
@@ -47,6 +49,7 @@
 
 
 <!-- Interests -->
+<br>
 <h2 align="left" >&#8250; Languages & Tools 🛠</h2> 
 
 <p align="left">
@@ -68,6 +71,7 @@
 </p>
 <hr>
 <!-- Statistics -->
+<br>
 <h2 align="left" >&#8250; Github Statistics 📊</h2>
 <p align="left" >
   <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true&hide_border=true' >
