@@ -59,7 +59,7 @@
 </p>
 
 These are just some of the tools I use to bring my Ideas to reality.<br>
-Currently I am also learning the programming languages **Python**, **Java** and **JavaScript**
+Currently I am also learning several programming languages, including Python, Java, and JavaScript, as well as markup languages like HTML and CSS.
 
 
 <!-- Statistics -->
