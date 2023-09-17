@@ -3,14 +3,14 @@
 <p>
   <p align="center">
     I'm Connor, a young developer from Germany.<br>
-    I'm very experienced at making Minecraft servers and writing <a target='_blank' href='https://github.com/SkriptLang/Skript'>scripts</a>
+    I'm very experienced at making Minecraft servers and writing <a href="https://github.com/SkriptLang/Skript" target="_blank">scripts</a>
   </p>
   <p align="center">
     I am currently completing my high school diploma at a technical school in Hamburg, Germany.<br>
     Contact me for comissions or other requests via email.
   </p>
   <p align="center">
-    <a  href="https://arcadegames.one" target="_blank"><img src="https://img.shields.io/badge/Project-ArcadeGames-a619e3?labelColor=5c5c5c" /></a>
+    <a href="https://arcadegames.one" target="_blank"><img src="https://img.shields.io/badge/Project-ArcadeGames-a619e3?labelColor=5c5c5c" /></a>
   </a>
 </p>
 
