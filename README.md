@@ -48,9 +48,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Gitbook-326CE5?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" />
-  <img src="https://img.shields.io/badge/-Skript-E0234E?style=for-the-badge&logo=skript&logoColor=white" alt="Skript" />
-  <img src="https://img.shields.io/badge/-Hetzner-FFB900?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/-Adminer-47A8E6?style=for-the-badge&logo=adminer&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/-Adminer-47A8E6?style=for-the-badge&logo=adminer&logoColor=white" alt="Adminer" />
+  <img src="https://img.shields.io/badge/-Java-f58219?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/-Skript-c44ad4?style=for-the-badge&logoColor=white&logo=" alt="Skript" />
   <img src="https://img.shields.io/badge/-Minecraft-22a33c?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
