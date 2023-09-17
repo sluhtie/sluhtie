@@ -16,7 +16,6 @@
 <p align="center" >
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=sluhtie&repo=texturepacks' >
 </p> -->
-<hr>
 <br>
 <!-- Projects -->
 <h2 align="left" >&#8250; Contact & Commissions ✨</h2>
