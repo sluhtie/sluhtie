@@ -11,13 +11,9 @@
   </p>
 </p>
 
-<!-- Projects
-<h2 align="center" >Projects ✨</h2>
-<p align="center" >
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=sluhtie&repo=texturepacks' >
-</p> -->
+
+<!-- Contact & Comissions -->
 <br>
-<!-- Projects -->
 <h2 align="left" >&#8250; Contact & Commissions ✨</h2>
 
 <p align="left">
@@ -46,7 +42,7 @@
 <p align="left">I take a <b>40% down payment</b> for all my comissions!<p>
 
 
-<!-- Interests -->
+<!-- Languages & Tools -->
 <br>
 <h2 align="left" >&#8250; Languages & Tools 🛠</h2> 
 
@@ -67,7 +63,8 @@
   <img src="https://img.shields.io/badge/-Minecraft-22a33c?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
-<hr>
+
+
 <!-- Statistics -->
 <br>
 <h2 align="left" >&#8250; Github Statistics 📊</h2>
