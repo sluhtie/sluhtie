@@ -39,11 +39,11 @@
 </p> -->
 
 <!-- Projects -->
-<h2 align="center" >Contact & Comissions ✨</h2>
+<h2 align="center" >Contact & Commissions ✨</h2>
 
 <p align="center">
-  Feel free to contact me for any comissions or requests.<br>
-  My prices completetly depend on the customer's request and will be given individually.<br>
+  Feel free to contact me for any commissions or requests.<br>
+  The price for an order depends 100% on the request of the customer.<br>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 <!-- Statistics -->
 <h2 align="center" >Github Statistics 📊</h2>
 <p align="center" >
-  <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&hide_rank=true' >
+  <img src='https://github-readme-stats.vercel.app/api?username=sluhtie&show_icons=true&theme=tokyonight&rank_icon=github' >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sluhtie&theme=tokyonight" >
 </p>
 
