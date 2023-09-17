@@ -47,15 +47,6 @@
 <h2 align="left" >&#8250; Languages & Tools 🛠</h2> 
 
 <p align="left">
-  <!--<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Proxmox-2C3E50?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-  <img src="https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />-->
-  
   <img src="https://img.shields.io/badge/-Gitbook-326CE5?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" />
   <img src="https://img.shields.io/badge/-Skript-E0234E?style=for-the-badge&logo=skript&logoColor=white" alt="Skript" />
   <img src="https://img.shields.io/badge/-Hetzner-FFB900?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
