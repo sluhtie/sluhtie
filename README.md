@@ -14,9 +14,17 @@
   </a>
 </p>
 
+<!-- Facts -->
+<h2 align="left">👨‍💻 About Me</h2>
+
+- 👤 **Pronouns:** he/him
+- 🎧 **Music taste:** I love listening to `lofi` and `EDM`.
+- 🎮 **Favorite games:** I enjoy playing `Minecraft` and `Valorant`.
+- 🌎 **Languages:** I speak `English` natively and `German` fluently.
+
 <!-- Contact & Comissions -->
 <br>
-<h2 align="left" >&#8250; Contact & Commissions ✨</h2>
+<h2 align="left" >✉️ Contact & Commissions</h2>
 
 <p align="left">
   Feel free to contact me for any commissions or requests.<br>
@@ -46,19 +54,21 @@
 
 <!-- Languages & Tools -->
 <br>
-<h2 align="left" >&#8250; Languages & Tools 🛠</h2> 
+<h2 align="left" >🛠 Languages & Tools</h2> 
+
+These are just some of the tools I use to bring my Ideas to reality.
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Gitbook-326CE5?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" />
   <img src="https://img.shields.io/badge/-Adminer-47A8E6?style=for-the-badge&logo=adminer&logoColor=white" alt="Adminer" />
   <img src="https://img.shields.io/badge/-Java-f58219?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Replit-f26201?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/-Hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
   <img src="https://img.shields.io/badge/-Figma-c44ad4?style=for-the-badge&logoColor=white&logo=figma" alt="Figma" />
   <img src="https://img.shields.io/badge/-Minecraft-22a33c?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-These are just some of the tools I use to bring my Ideas to reality.<br>
 Currently I am also learning several programming languages, including Python, Java, and JavaScript, as well as markup languages like HTML and CSS.
 
 
