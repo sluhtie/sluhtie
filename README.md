@@ -10,7 +10,7 @@
     Contact me for comissions or other requests via email.
   </p>
   <p align="center">
-    <a href="https://arcadegames.one" target="_blank"><img src="https://img.shields.io/badge/Project-ArcadeGames-a619e3?labelColor=5c5c5c" /></a>
+    <a href="https://arcadegames.one" target="_blank"><img src="https://3x8z5im3kb7h.runkit.sh" /></a>
   </a>
 </p>
 
