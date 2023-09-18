@@ -28,7 +28,7 @@
 
 <p align="left">
   Feel free to contact me for any commissions or requests.<br>
-  The price for an order depends 100% on the request of the customer.<br>
+  The price for an order depends <b>100%</b> on the request of the customer.<br>
 </p>
 
 <p align="left">
