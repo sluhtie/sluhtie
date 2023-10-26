@@ -1,0 +1,1447 @@
+@-moz-document url-prefix("https://www.spigotmc.org") {
+/*
+Original theme made by mathhulk
+    https://www.spigotmc.org/members/mathhulk.138878/
+Redesign by fangster
+    https://www.spigotmc.org/members/fangster.649086/
+Dark Purple-SpigotMC
+	https://gist.github.com/TheFangster/91b8c33f5b2bb461ec9d05992ecacddd
+Modified by sluhtie
+*/
+:root {
+    --main-bg-color: #0f111e;
+    --main-pimary-bg-color: #151829;
+    --main-secondary-bg-color: #0f111e;
+    --main-tertiary-bg-color: #ce96fb;
+    --main-overlay-bg-color: rgba(183, 57, 245, 0.8);
+    --main-link-hover-color: #c909fc;
+    --main-text-color: rgb(252, 253, 255);
+    --main-text-count-color: #c909fc;
+    --main-secondary-text-color: #c909fc;
+    --main-action-hover-bg-color: #c909fc;
+    --main-title-text-color: #ddb3ff;
+    --main-description-text-color: #fff;
+    --main-title-link-hover-color: #c909fc;
+    --main-menu-content-bg-color: linear-gradient(to right, #8d01f8 0%, #c909fc 100%);
+    --main-menu-bg-color: #000;
+    --main-donation-text-color: #404040;
+    --main-visitorpanel-username-color: #c909fc;
+    --main-categorystrip-color: linear-gradient(to right, #8d01f8 0%, #c909fc 100%);
+    --main-sidebar-color: #1c1f32;
+    --main-searchinput-bg-color: #222433;
+    --main-postrating-bg-color: #1c1f32;
+    --main-quotecontainer-bg-color: #222433;
+    --main-codeblock-bg-color: #1c1f32;
+    --main-signature-bg-color: #0f111e;
+    --main-signature-and-reply-text-color: #c909fc;
+    --main-nodestats-color: #8d01f8;
+    --main-nodestats-text-color: #b739f5;
+    --main-accountusername-color: #c909fc;
+    --main-icon-inbox: #fff;
+    --main-icon-alerts: #fff;
+    --main-currentpage-color: #c909fc;
+    --main-ReadAboutWrapper-color: linear-gradient(to right, #8d01f8 0%, #2b2c4b 100%);
+    --main-ReadAboutWrapper-text-color: #ce96fb;
+    --main-deletionnotice-color: #fd423d;
+    --main-pricetag-color: linear-gradient(to right, #fa9f36 0%, #ff6faa 100%);
+    --main-previewtooltip-text-color: #ffbc75;
+    --main-nodelist-color: #151726;
+}
+
+
+body, html, #content {
+    background: var(--main-bg-color);
+}
+.breadcrumb {
+ 	background: var(--main-pimary-bg-color);  
+    border-radius: 0;
+    box-shadow: 0 0;
+    text-shadow: 0 0;
+    
+    padding: 3px;
+    height: auto;
+}
+.xenOverlay.memberCard {
+    border-radius: 0;
+    background: linear-gradient(to bottom, var(--main-currentpage-color) 0%, var(--main-bg-color) 100%);
+    box-shadow: 0 0;
+    color: var(--main-text-count-color);
+}
+.xenOverlay.memberCard .userInfo h3 a {
+    color: var(--main-accountusername-color) !important
+}
+.PostFrictionContainer h3 {
+    background: var(--main-deletionnotice-color);
+}
+.PostFrictionContainer {
+    background: var(--main-pimary-bg-color);
+    border: 2px solid var(--main-deletionnotice-color);
+}
+.PostFrictionContainer .FrictionWarning {
+    color: var(--main-title-text-color);
+}
+.PostFrictionContainer .FrictionWarningAgreement {
+    color: var(--main-secondary-text-color);
+}
+.AvatarEditor label {
+    color: var(--main-tertiary-bg-color)
+}
+.xenOverlay .formOverlay .textCtrl {
+    color: var(--main-tertiary-bg-color)
+}
+body .AvatarEditor .avatarOption {
+    background: var(--main-pimary-bg-color);
+    border: 1px solid var(--main-currentpage-color);
+}
+.AvatarEditor #GravatarTest {
+    background: var(--main-currentpage-color)
+}
+.xenOverlay .formOverlay .textCtrl {
+    background: var(--main-pimary-bg-color) !important;
+}
+#logo img:hover {
+    background: var(--main-currentpage-color);
+}
+.subHeading a {
+    color: var(--main-title-text-color) !important
+}
+.navTabs .navTab.account .avatar img {
+    content: url(https://i.imgur.com/gCLo46f.png);
+}
+.resourceListItem .resourceImage, .resourceListItem .resourceStats {
+    background: var(--main-nodelist-color);
+}
+#navigation .navTabs .navLink:hover {
+    background: var(--main-currentpage-color);
+}
+a.sidePanel__tab.is-active {
+    background: var(--main-currentpage-color) !important;
+    box-shadow: inset 0 -3px transparent;
+}
+.sidePanelWrapper {
+    background: var(--main-bg-color);
+}
+.sidePanel__navTabs .navLink:hover {
+    background: var(--main-currentpage-color);
+}
+.sidePanel__navTabs .navTab.selected .navLink {
+    background: var(--main-categorystrip-color);
+}
+.timeline-Header-title {
+    color: var(--main-tertiary-bg-color);
+}
+.SandboxRoot.env-bp-min .timeline-Tweet-text {
+    color: var(--main-tertiary-bg-color);
+}
+.prefix.prefixPrimary {
+    background: var(--main-categorystrip-color);
+    color: #fff;
+}
+.rankModerator {
+    background: #2dcb70;
+}
+.username .style4 {
+    color: #2dcb70;
+}
+.rankJunior {
+    background: #0c2baa
+}
+.username .style18 {
+    color: #0c2baa;
+}
+.rankAdmin {
+    background: #CC1111
+}
+.username .style3 {
+    color: #CC1111;
+}
+.rankIRC {
+    background: #F66600;
+}
+.username .style21 {
+    color: #F66600;
+}
+.rankSponsor {
+    background: #00bcd4;
+}
+.username .style5 {
+    color: #00bcd4;
+}
+.rankWiki {
+    background: #ab6fc9;
+}
+.username .style9 {
+    color: #ab6fc9;
+}
+.rankPatron {
+    background: #8BE7E3;
+}
+.rankServices {
+    background: #00A876;
+}
+.rankRetired {
+    background: #63005F;
+}
+.rankResource {
+    background: #f4ce01;
+}
+.username .style20 {
+    color: #f4ce01;
+}
+.rankSupporter {
+    background: #9B5CD6;
+}
+.discussionList.sectionMain .sectionHeaders {
+    background: var(--main-pimary-bg-color);
+}
+.discussionListItem .posterDate span.DateTime {
+    color: var(--main-tertiary-bg-color);
+}
+.pairsJustified dt {
+    color: var(--main-nodestats-color);
+}
+.pairsJustified dd {
+    color: var(--main-nodestats-text-color);
+}
+.discussionListItem:nth-child(even) {
+    background: var(--main-nodelist-color) !important;
+}
+.discussionListItem {
+    background: var(--main-sidebar-color) !important;
+}
+.resourceListItem .resourceStats, .resourceListItem .listBlockInner {
+    background: var(--main-nodelist-color);
+}
+.resourceListMain .section {
+    background: var(--main-nodelist-color);
+}
+.dataTable tr.dataRow th {
+    color: var(--main-tertiary-bg-color)
+}
+.downloadButton .inner {
+    background: var(--main-categorystrip-color) !important
+}
+.tabs li.active a, .tabs.noLinks li.active {
+    color: var(--main-currentpage-color);
+}
+.memberListItem .extra .bigNumber {
+    color: var(--main-nodestats-text-color);
+}
+.hasFlexbox .articleItem .metaData .statData {
+    color: var(--main-nodestats-text-color);
+}
+.PageNav a:hover, .PageNav a:focus {
+	background: var(--main-currentpage-color);
+	color: var(--main-description-text-color) !important
+}
+.navTabs .navTab.navTab--justIcon .navLink>.uix_icon.uix_icon-inbox {
+    color: var(--main-icon-inbox);
+}
+.navTabs .navTab.navTab--justIcon .navLink>.uix_icon.uix_icon-inbox:hover {
+    color: var(--main-currentpage-color);
+}
+.navTabs .navTab.navTab--justIcon .navLink>.uix_icon.uix_icon-alerts {
+    color: var(--main-icon-alerts);
+}
+.navTabs .navTab.navTab--justIcon .navLink>.uix_icon.uix_icon-alerts:hover {
+    color: var(--main-currentpage-color);
+}
+.textHeading, .xenForm .sectionHeader {
+    color: var(--main-currentpage-color);
+}
+.actionFilterRow {
+    background: var(--main-sidebar-color) !important;
+}
+.breadBoxTop a.callToAction:hover span {
+    background: var(--main-nodestats-color);
+}
+.discussionList .sectionHeaders a {
+    color: var(--main-currentpage-color);
+}
+.BBcodeInlineCode {
+    color: var(--main-text-color);
+    background-color: var(--main-text-count-color);
+    border: 1px solid var(--main-text-count-color);
+}
+.xenPreviewTooltip {
+    color: var(--main-previewtooltip-text-color);
+    background: var(--main-ReadAboutWrapper-color);
+    border: 2px solid var(--main-bg-color)
+}
+.xenPreviewTooltip .arrow {
+    border-top: 15px solid var(--main-currentpage-color);
+}
+.previewTooltip .posterDate {
+    color: var(--main-previewtooltip-text-color);
+    border-top: 1px solid var(--main-bg-color);
+}
+.previewTooltip .DateTime {
+    color: var(--main-previewtooltip-text-color);
+}
+.titleBar h1 {
+    color: var(--main-currentpage-color);
+}
+.staffHeading {
+    color: var(--main-nodestats-text-color);
+}
+.resourceListItem .resourceStats .Hint {
+    color: var(--main-currentpage-color);
+}
+.resourceListItem .resourceStats dt {
+    color: var(--main-tertiary-bg-color);
+}
+.resourceListItem.deleted .deletionNote {
+    color: var(--main-deletionnotice-color);
+}
+.resourceAlerts, .resourceListItem .main .cost {
+    background: var(--main-pricetag-color) !important
+}
+.resourceListItem .main .version {
+    color: var(--main-title-text-color);
+}
+#body .muted, body a.muted, body .muted a {
+    color: #5b5c70
+}
+.resourceListItem .main .tagLine {
+    color: #f0f3f8
+}
+.navTabs .SplitCtrl:before {
+    color: var(--main-currentpage-color);
+}
+.breadcrumb .crust:first-child a.crumb, .breadcrumb .crust.firstVisibleCrumb a.crumb {
+    border-radius: 0;
+}
+.sidebar .section .secondaryContent {
+ 	box-shadow: 0 0;   
+    border-radius: 0;
+}
+.secondaryContent {
+ 	background: var(--main-secondary-bg-color); 
+    padding: 15px;
+    
+    color: var(--main-secondary-text-color); 
+}
+.sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3, .resourceListSidebar h3 {
+ 	background: var(--main-sidebar-color);  
+}
+.sidebar .section .primaryContent h3, .sidebar .section .secondaryContent h3, .profilePage .mast .section.infoBlock h3 {
+ 	border-radius: 0;
+    box-shadow: 0 0;
+    text-shadow: 0 0;
+    margin: -15px -15px 15px;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+}
+.sidebar .section .primaryContent h3:before, .sidebar .section .secondaryContent h3:before, .profilePage .mast .section.infoBlock .secondaryContent h3:before {
+    display: none;
+}
+.breadcrumb .crust a.crumb {
+    border: 0;
+}
+.PanelScroller .scrollContainer, .PanelScrollerOff .panel {
+	background: rgba(0, 0, 0, 0.2);    
+	border: 0;
+    border-radius: 0;
+}
+.PanelScroller .panel, .PanelScrollerOff .panel {
+    background: transparent;
+    border-radius: 0;
+    color: var(--main-secondary-text-color);
+}
+.nodeList .categoryStrip {
+    background: var(--main-categorystrip-color);
+    padding: 15px;
+    border: 0;
+    box-shadow: 0 0;
+    text-shadow: 0 0;
+    border-radius: 0;
+}
+.nodeList .categoryStrip .nodeTitle a {
+    color: var(--main-description-text-color);
+}
+.nodeList .categoryStrip .nodeDescription {
+    color: var(--main-description-text-color);
+}
+.forum_list .nodeList .nodeList, .forum_view .nodeList, .category_view .nodeList, .watch_forums .nodeList {
+    background: rgba(0, 0, 0, 0.2);
+}
+.nodeList .categoryForumNodeInfo, .nodeList .forumNodeInfo, .nodeList .pageNodeInfo, .nodeList .linkNodeInfo {
+    background: var(--main-sidebar-color);
+}
+.categoryStrip__collapseToggle {
+    color: var(--main-description-text-color);
+}
+/* SPLIT ID: 1 */
+.nodeList .node.level_2:nth-child(even) .nodeInfo {
+    background: var(--main-nodelist-color);
+}
+.node.level_2 .nodeInfo {
+	border: 0;
+}
+/* SPLIT FROM ID: 1 */
+.nodeList .node.level_2:nth-child(even) .nodeInfo .nodeLastPost {
+    background: transparent;
+}
+.node .nodeLastPost {
+    background: transparent;
+}
+a:link, a:visited {
+    color: var(--main-tertiary-bg-color);
+}
+.node .forumNodeInfo.unread .nodeIcon, .node .categoryForumNodeInfo.unread .nodeIcon {
+    background: var(--main-tertiary-bg-color) url("//static.spigotmc.org/styles/spigot/style/node-sprite.png") no-repeat 0 0;
+}
+.threadListItem {
+    border: 0;
+}
+.avatar img, .avatar .img, .avatarCropper {
+    border-radius: 0;
+}
+.sidebar .visitorPanel .username {
+    color: var(--main-visitorpanel-username-color);
+}
+.node .unread .nodeText .nodeTitle {
+    color: var(--main-text-title-color);
+}
+.node .nodeText .nodeTitle {
+    color: var(--main-text-title-color);
+}
+body {
+    color: var(--main-text-color);
+}
+.nodeStats dt, .nodeStats .dt {
+    color: var(--main-nodestats-color);
+}
+.nodeStats dd, .nodeStats .dd {
+    color: var(--main-nodestats-text-color);
+}
+.node .subForumList .unread .nodeTitle {
+    color: var(--main-tertiary-bg-color);
+}
+.node .subForumList li .nodeTitle {
+    color: var(--main-text-color);
+}
+.node .nodeText .nodeTitle a:hover {
+    color: var(--main-title-link-hover-color);
+}
+a[href]:hover {
+    text-decoration: none;
+    color: var(--main-link-hover-color);
+}
+.footer .pageContent {
+    border-top: 3px solid var(--main-pimary-bg-color); 
+}
+.footer {
+    margin: 18px 0 0;
+}
+.node.level_2:last-child .nodeInfo {
+    border-radius: 0;
+}
+.mainContainer .mainContent, .mainContainer_noSidebar {
+    border: 0;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+}
+.textHeading, .xenForm .sectionHeader {
+    border: 0;
+}
+.larger.textHeading, .xenForm .sectionHeader, .larger.textHeading a, .xenForm .sectionHeader a {
+    color: var(--main-text-color);
+}
+.quickReply {
+    background: rgba(0, 0, 0, 0.2);
+	border: 0;
+	padding: 15px;
+	border-radius: 0;
+}
+.messageUserBlock div.avatarHolder {
+    background: transparent;
+}
+.messageUserInfo {
+    background: transparent;
+    border: 0;
+}
+.messageUserBlock h3.userText {
+    background: transparent;
+	border: 0;
+}
+.messageUserBlock a.username {
+    color: var(--main-text-color);
+}
+.messageUserBlock .arrow {
+    display: none;
+}
+.messageList .message {
+    padding: 15px;
+	background: rgba(0, 0, 0, 0.2);
+	border: 0;
+    border-radius: 0;
+}
+.message .dark_postrating.likesSummary, .dark_postrating {
+    background: var(--main-postrating-bg-color);
+    border: 0;
+}
+.message .newIndicator {
+    background: var(--main-pimary-bg-color);
+	border: 0;
+    border-radius: 0;
+}
+.message .messageMeta .control:hover {
+	color: var(--main-tertiary-bg-color);
+}
+.PageNav a {
+    background: var(--main-pimary-bg-color);
+	border: 0;
+    border-radius: 0 !important; /* OVERRIDE */
+	color: var(--main-description-text-color);
+}
+footer {
+	background: rgba(0, 0, 0, 0.2);
+}
+.button {
+    border-radius: 0;
+    border: 0;
+	box-shadow: 0 0;
+    background: var(--main-pimary-bg-color);
+    color: var(--main-description-text-color);
+}
+.button.primary {
+    background: var(--main-pimary-bg-color);
+}
+.button:hover, .button[href]:hover, .buttonProxy:hover .button {
+    background: var(--main-tertiary-bg-color);
+}
+.redactor_toolbar {
+	background: rgba(0, 0, 0, 0.2);
+	border: 0;
+	padding: 5px;
+}
+.redactor_toolbar li.redactor_btn_group ul {
+    background: transparent;
+	border: 0;
+}
+html .redactor_toolbar li a {
+	color: var(--main-text-color);
+}
+.redactor_toolbar li a:hover {
+	border-color: transparent;
+    color: var(--main-description-text-color);
+}
+.redactor_box {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.redactor_toolbar li a:active, .redactor_toolbar li a.redactor_act {
+	color: var(--main-description-text-color);
+	background: transparent;
+	border: 0;
+}
+.redactor_dropdown {
+	background: var(--main-bg-color);
+    border: 0;
+    box-shadow: 0 0;
+}
+.redactor_dropdown a:hover {
+    background: transparent;
+    color: var(--main-description-text-color);
+}
+.redactor_dropdown a {
+    color: var(--main-text-color);
+}
+.xenOverlay .formOverlay {
+    background: var(--main-bg-color);
+    border: 0;
+    border-radius: 0;
+    padding: 15px;
+}
+.xenOverlay .formOverlay a {
+    color: var(--main-description-text-color);
+}
+.xenOverlay .formOverlay .heading {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    margin: -15px -15px 15px;
+    color: var(--main-text-color);
+}
+.xenOverlay .formOverlay .textCtrl {
+    border: 0;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 8px;
+}
+.textCtrl {
+    border-radius: 0;
+}
+.xenForm .ctrlUnit>dt {
+    padding-top: 8px;
+}
+.redactor_box .redactor_smilies .secondaryContent {
+    border: 0;
+}
+.bbCodeQuote .attribution {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border-bottom: 0;
+    border-left: 2px solid var(--main-pimary-bg-color);
+}
+.bbCodeBlock {
+    background: var(--main-codeblock-bg-color);
+    border: 0;
+}
+.bbCodeQuote .quoteContainer {
+    background: var(--main-quotecontainer-bg-color);
+    padding: 10px;
+    border: 0;
+}
+.ugc a:link, .ugc a:visited {
+    color: var(--main-tertiary-bg-color);
+}
+.ugc a:hover, .ugc a:focus {
+    box-shadow: 0 0;
+    color: var(--main-signature-and-reply-text-color);
+}
+.bbCodeBlock .type {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    border: 0 solid var(--main-pimary-bg-color);
+    border-left-width: 2px;
+}
+.bbCodeBlock pre, .bbCodeBlock .code {
+    background: transparent;
+    padding: 10px;
+}
+.message .signature {
+    padding: 10px;
+    border: 0;
+    background: var(--main-signature-bg-color);
+}
+.signature {
+    max-height: 120px;
+    overflow: auto;
+}
+[dir=auto] {
+    text-align: center;
+}
+.Popup .PopupControl.PopupOpen, .Popup.PopupContainerControl.PopupOpen {
+    box-shadow: 0 0;
+    background: transparent;
+}
+.Menu.BottomControl {
+    border: 0;
+    box-shadow: 0 0;
+}
+.Menu .primaryContent {
+    background: var(--main-menu-content-bg-color);
+}
+.primaryContent {
+    border: 0;
+    padding: 15px;
+}
+.Menu .secondaryContent {
+    background: var(--main-secondary-bg-color);
+}
+.Menu .sectionFooter {
+    background: var(--main-menu-content-bg-color);
+}
+.secondaryContent {
+    border: 0;
+}
+.sectionFooter {
+	color: var(--main-text-color);
+}
+.uix_socialLink a {
+    border-radius: 0;
+    background: var(--main-pimary-bg-color);
+    color: var(--main-description-text-color);
+}
+.uix_socialLink a:hover {
+    text-shadow: 0 0;
+	background: var(--main-tertiary-bg-color);
+}
+.footer a, .footer a:visited {
+    color: var(--main-text-color);
+}
+.footerLinks a[href]:hover {
+    color: var(--main-description-text-color);
+}
+.footer .choosers a {
+    background: rgba(0, 0, 0, 0.2);
+    border: 0;
+    border-radius: 0;
+    padding: 12px;
+}
+.footer .choosers a:hover {
+    color: var(--main-description-text-color);
+}
+.xenOverlay .section, .xenOverlay .sectionMain {
+    border-radius: 0;
+    border-color: transparent;
+}
+.heading, .xenForm .formHeader {
+    background: var(--main-pimary-bg-color);
+    padding: 15px;
+}
+.xenOverlay .section .heading, .xenOverlay .sectionMain .heading {
+    border-radius: 0;
+}
+.xenOverlay .section .sectionFooter, .xenOverlay .sectionMain .sectionFooter {
+    border-radius: 0;
+}
+.sectionFooter {
+    background: var(--main-menu-content-bg-color);
+}
+.subHeading {
+    background: var(--main-menu-content-bg-color);
+    border: 0;
+    padding: 15px;
+}
+.primaryContent {
+    background: var(--main-bg-color);
+}
+.chooserColumns li a:hover {
+    background: transparent;
+}
+.navTabs .navTab.selected .tabLinks {
+	border: 0;
+    background: var(--main-secondary-bg-color);
+}
+.navTabs .navTab.selected .tabLinks a {
+    text-shadow: 0 0;
+}
+.navTabs .navTab.selected .tabLinks a:hover, .navTabs .navTab.selected .tabLinks a:focus {
+    color: var(--main-description-text-color);
+}
+#QuickSearch .primaryControls .uix_icon {
+    background: var(--main-pimary-bg-color);
+	text-shadow: 0 0;
+    border-radius: 0;
+}
+.textCtrl {
+    border: 0;
+}
+#navigation .navTabs, .breadcrumb, .uix_breadCrumb_toggleList li.toggleList_item {
+    background: var(--main-pimary-bg-color);
+}
+.Menu {
+    border: 0;
+    border-top: 2px solid var(--main-menu-bg-color);
+}
+.navTabs .navTab.selected .navLink {
+    background: var(--main-secondary-bg-color);
+    border-radius: 0 !important; /* OVERRIDE */
+    box-shadow: 0 0;
+    margin: 0;
+    border-top: 3px solid var(--main-menu-bg-color);
+}
+#navigation .navTabs .navTab.selected .navLink:before {
+    display: none;
+}
+#navigation .navTabs .navTab.selected .navLink:after {
+    display: none;
+}
+.navTabs .navTab.selected .navLink, .navTabs .navTab.PopupClosed.selected .navLink, .navTabs .navTab.PopupClosed.selected .SplitCtrl {
+    color: var(--main-description-text-color);
+}
+.Popup .PopupControl.PopupOpen, .Popup.PopupContainerControl.PopupOpen {
+    border-radius: 0 !important; /* OVERRIDE */
+}
+.navTabs .navTab.Popup.PopupOpen, .navTabs .navTab.selected.PopupOpen .navLink {
+    background: rgba(0, 0, 0, 0.2);
+    border-top: 3px solid rgba(0, 0, 0, 0.4);
+}
+#navigation .navTabs .navTab.PopupOpen, .navTab.selected .blockLinksList li.PopupOpen {
+    margin: 0;
+}
+.spigot_headerReadAboutWrapper {
+    background: var(--main-ReadAboutWrapper-color);
+    padding: 15px;
+    border-radius: 0;
+    text-shadow: 0 0;
+    border: 0;
+    color: var(--main-ReadAboutWrapper-text-color);
+    visibility: hidden;
+}
+#logoBlock .spigot_colorOverlay {
+    /*background: rgba(0,0,0,0);*/
+    min-height:100%;
+    background:linear-gradient(0deg, rgba(199, 9, 252, 0.3), rgba(199, 9, 252, 0.3)), url(https://wallpaper.dog/large/1597.jpg);
+    background-position: 0,0;
+    background-size:cover;
+}
+#userBar .navTabs {
+    background: var(--main-bg-color);
+    border: 0;
+}
+.navTabs .navTab.account .navLink .accountUsername {
+    color: var(--main-accountusername-color);
+}
+#userBar .navTabs .navTab.Popup.PopupOpen, #userBar .navTabs .navTab.selected.PopupOpen .navLink {
+    background: var(--main-pimary-bg-color);
+    border: 0;
+}
+.timeline-ShowMoreButton--edge {
+    border: 0;
+    color: var(--main-description-text-color);
+    background: var(--main-pimary-bg-color);
+}
+.sectionMain {
+    border: 0;
+    margin: 0 0 16px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+}
+.articleItem .metaData {
+    border: 0;
+    padding: 8px;
+    background: rgba(0, 0, 0, 0.2);
+    margin: -15px -15px 15px;
+}
+.PageNav {
+    padding: 15px 15px 10px;
+}
+.PageNav .pageNavHeader {
+    margin-right: 10px;
+}
+.keyIcon.redirect {
+    display: none;
+}
+a.button {
+    color: var(--main-description-text-color);
+}
+.navPopup .listItem {
+    border: 0;
+}
+.navPopup .PopupItemLinkActive:hover {
+    background: transparent;
+}
+.navPopup a:hover, .navPopup .listItemText a:hover {
+    text-decoration: none;
+}
+.blockLinksList a, .blockLinksList label {
+    color: var(--main-text-color);
+}
+#AccountMenu .statusPoster textarea {
+    width: 235px;
+    padding: 10px;
+}
+.resourceListSidebar .secondaryContent {
+    border: 0;
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.2);
+}
+.resourceListSidebar h3 {
+    border-radius: 0;
+    margin: -15px -15px 15px;
+    padding: 15px;
+    text-shadow: 0 0;
+    box-shadow: 0 0;
+    text-align: center;
+}
+.resourceListSidebar .secondaryContent.categoryList h3:before {
+    display: none;
+}
+.resourceListSidebar .secondaryContent.avatarList h3:before {
+    display: none;
+}
+.resourceListSidebar .avatarList .username {
+    text-align: left;
+}
+.resourceListMain {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    border: 0;
+}
+.actionFilterRow {
+    border: 0;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 15px 15px 5px;
+}
+.blockLinksList a.selected, .blockLinksList li.kbSelect a.selected, .blockLinksList label.selected, .blockLinksList li.kbSelect label.selected {
+    color: var(--main-description-text-color);
+}
+.pageNavLinkGroup .linkGroup {
+    margin: 10px 25px 5px;
+}
+.resourceListMain .pageNavLinkGroup {
+    padding: 0 0 15px;
+    background: rgba(0, 0, 0, 0.2);
+}
+.resourceListItem {
+    border: 0;
+    background: transparent;
+}
+.resourceListItem .resourceImage .resourceIcon img {
+    border-radius: 0;
+}
+.resourceListItem .resourceImage .creatorMini img {
+    border-radius: 0;
+    box-shadow: 0 0;
+    padding: 0;
+}
+.resourceListItem.moderated .listBlock {
+    background: transparent;
+}
+.resourceAlerts, .resourceListItem .main .cost {
+    background: var(--main-pimary-bg-color);
+    border: 0;
+    color: var(--main-description-text-color);
+}
+.resourceListItem .main .cost {
+    border-radius: 0;
+    padding: 5px;
+}
+.resourceListItem .iconKey .moderated {
+    margin-top: 5px;
+}
+.innerContent .rateBlock {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    border: 0;
+    margin: 10px auto 0;
+}
+.messageSimple .messageMeta {
+    padding: 15px;
+    background: rgba(0, 0, 0, 0.4);
+    margin: 15px -15px -15px;
+}
+.section {
+    margin: 0 auto 16px;
+}
+.innerContent .customResourceFields.aboveInfo {
+    border: 0;
+    margin: 0 -15px 15px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 15px;
+}
+.messageSimple {
+    margin: 0 0 10px;
+}
+.tabs {
+    border: 0;
+}
+.tabs li.active a, .tabs.noLinks li.active {
+    background:	rgba(0, 0, 0, 0.4);
+}
+.tabs li a, .tabs.noLinks li {
+    background:	rgba(0, 0, 0, 0.4);
+    color: var(--main-text-color);
+    border-radius: 0;
+    margin-right: 5px;
+    border: 0;
+    border-bottom: 1px solid var(--main-menu-bg-color);
+}
+.downloadButton .inner {
+    background: var(--main-pimary-bg-color);
+    border-radius: 0;
+}
+.resourceInfo .primaryLinks li {
+    text-align: right;
+}
+.downloadButton:hover .inner {
+    background: var(--main-tertiary-bg-color);
+}
+.sidebar > .callToAction {
+    max-width: 100%;
+    margin: 0 0 16px;
+}
+a.callToAction span {
+    border-radius: 0;
+    box-shadow: 0 0;
+    text-shadow: 0 0;
+    background: var(--main-tertiary-bg-color);
+}
+.sidebar .callToAction span {
+    padding: 10px;
+}
+a.callToAction:hover span {
+    background: rgb(58,101,129);
+}
+.tabs li:hover a, .tabs.noLinks li:hover {
+    color: var(--main-description-text-color);
+    background:	rgba(0, 0, 0, 0.4);
+}
+table.dataTable {
+    margin: 0;
+}
+.dataTable tr.dataRow th {
+    background: rgba(0, 0, 0, 0.4);
+    border: 0;
+    padding: 10px;
+}
+.xenForm fieldset, .xenForm .formGroup, .dataTable tr.dataRow td {
+    border: 0;
+    background: rgba(0, 0, 0, 0.2);
+}
+.dataTable .dataRow .dataOptions a.secondaryContent {
+    border: 0;
+    background: transparent;
+}
+.dataTable .dataRow .dataOptions a.secondaryContent:hover {
+    background: transparent;
+}
+.innerContent .updates ol {
+    border: 0;
+}
+.section.updates {
+    background: rgba(0, 0, 0, 0.2); 
+    margin: 15px 0 0;
+    padding: 15px;
+}
+.textHeading, .xenForm .sectionHeader {
+    background: rgba(0, 0, 0, 0.2); 
+    padding: 15px;
+    margin: -15px -15px 15px;
+}
+.primaryContent .textHeading {
+    background: rgba(0, 0, 0, 0.4); 
+}
+.messageNotices li {
+    background: rgba(0, 0, 0, 0.2);
+    border: 0;
+    border-radius: 0;
+    padding: 8px;
+}
+/* ADDED */
+.sharePage:not(.infoBlock) {
+    padding: 15px;
+    background: rgba(0, 0, 0, 0.2);
+}
+.sharePage .shareControl {
+    margin-top: 10px;
+}
+.articleItem .sectionMain {
+    padding: 0;
+}
+.dataTable .dataRow .delete {
+    background: rgba(0, 0, 0, 0.2);
+    border: 0;
+}
+.thread_view .threadAlerts {
+    background: rgba(0, 0, 0, 0.2);
+    border: 0;
+    border-radius: 0;
+    padding: 10px;
+}
+.rank {
+    border-radius: 0;
+    width: 100%;
+    padding: 5px 0;
+}
+.rankAdmin {
+    background: #CC1111;
+}
+.rankDeveloper {
+    background: #AA00AA;
+}
+.breadBoxTop a.callToAction span {
+    padding: 3px 20px;
+}
+.breadcrumb a:hover {
+    color: var(--main-text-count-color);
+    text-shadow: 0 0;
+}
+#QuickSearch .formPopup .secondaryControls {
+    box-shadow: 0 0;
+    border-radius: 0;
+    background: var(--main-secondary-bg-color);
+    border: 0;
+    color: var(--main-text-color);
+}
+#QuickSearch .formPopup .controlsWrapper .textCtrl {
+    padding: 8px;
+}
+#QuickSearch .button:not(.primary) {
+    border-radius: 0;
+    box-shadow: 0 0;
+    background: var(--main-pimary-bg-color);
+    color: var(--main-description-text-color);
+}
+#QuickSearch .button:hover {
+    background: var(--main-tertiary-bg-color);
+}
+#QuickSearch a.button:hover {
+    background: var(--main-tertiary-bg-color);
+}
+.xenForm .ctrlUnit {
+    padding: 10px 0; /* OVERRIDE */
+    margin: 0;
+    background: rgba(0, 0, 0, 0.2);
+}
+.xenForm .ctrlUnit>dd .textCtrl {
+    padding: 8px;
+}
+.wikiPage .subHeading {
+    background: rgba(0, 0, 0, 0.2);
+}
+.controlTabs li a {
+    margin-bottom: 1px;
+}
+.wikiPage .sectionFooter {
+    background: rgba(0, 0, 0, 0.2);
+}
+#navigation .navTabs .navTab.PopupOpen, .navTab.selected .blockLinksList li.PopupOpen {
+    margin-right: 3px;
+}
+.conversation_view .message:first-child, .conversation_view .quickReply {
+    border: 0;
+    border-radius: 0;
+}
+.rankJunior {
+    background: #0C2BAA;
+}
+.messageUserBlock .extraUserInfo {
+    text-align: center;
+}
+a.PageNavPrev, a.PageNavNext {
+    max-height: 24px;
+}
+.articlePager {
+    margin: 0;
+}
+.updateContainer ol li:not(:first-child) .textHeading {
+    margin-top: -15px;
+}
+.resourceUpdate .likesSummary {
+    border: 0;
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    margin: 15px -15px -15px;
+}
+.node .nodeText, .node .subForumList {
+    margin-left: 10px;
+}
+.node .forumNodeInfo.unread .nodeIcon, .node .categoryForumNodeInfo.unread .nodeIcon {
+    display: none;
+}
+.node .forumNodeInfo .nodeIcon, .node .categoryForumNodeInfo .nodeIcon {
+    display: none;
+}
+.TwitterCard-container {
+    border: 0;
+    background: rgba(0, 0, 0, 0.2);
+}
+.TwitterCard .SummaryCard-image {
+    background: rgba(0, 0, 0, 0.2);
+    border: 0;
+}
+.TwitterCard-container--clickable:hover {
+    background: rgba(0, 0, 0, 0.4);
+}
+.findMember .textCtrl {
+    padding: 8px;
+}
+.bbCodeQuote .quoteContainer .quoteExpand {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 80%);
+}
+.profilePage .mast .section.infoBlock {
+    border: 0;
+}
+.profilePage .mast .MedalsBlock .primaryContent.MedalHeap {
+    border: 0;
+}
+.dark_postrating_member {
+    border: 0;
+}
+.profilePage .mast .section.infoBlock .secondaryContent {
+    border-radius: 0;
+}
+.textWithCount .count {
+    float: none;
+    color: var(--main-description-text-color);
+}
+.textWithCount .count::before {
+    content: "( ";
+}
+.textWithCount .count::after {
+    content: " )";
+}
+.textWithCount .count:hover {
+    color: var(--main-text-count-color);
+}
+.profilePage .mast .sectionFooter {
+    border: 0;
+    text-align: center;
+    padding: 15px;
+    margin: 15px -15px -15px;
+}
+.profilePage .mainProfileColumn {
+    border: 0;
+}
+.profilePage .primaryUserBlock .lastActivity {
+    border: 0;
+}
+.textWithCount.subHeading .count {
+    border: 0;
+    background: transparent;
+}
+.profilePage .mast .secondaryContent {
+    background: var(--main-bg-color);
+}
+.messageSimpleList .placeholder .placeholderContent {
+    background: var(--main-bg-color);
+    border: 0;
+    border-radius: 0;
+    padding: 15px;
+    color: var(--main-text-color);
+}
+.messageSimple .messageInfo {
+    margin: 0;
+}
+.messageSimple .messageContent {
+    margin-left: 65px;
+}
+
+/* > ? < */
+.messageSimple .messageResponse {
+    margin-top: 0;
+    max-width: 100%;
+    margin: 15px -15px -15px;
+    padding: 0;
+}
+
+.profilePage .messageSimple .messageMeta {
+    margin: 30px -15px -15px;
+}
+.profilePage .comment.secondaryContent {
+    background: rgba(0, 0, 0, 0.6);
+    margin: 15px -15px -15px;
+    padding: 15px;
+}
+.profilePage #ProfilePostList .primaryContent {
+    border-top: 3px solid var(--main-pimary-bg-color);
+}
+.profilePage .profilePoster .avatar {
+    display: none;
+}
+.profilePage .profilePoster textarea {
+    padding: 8px;
+}
+.profilePage .tabs.mainTabs {
+    background: transparent;
+}
+.profilePage .tabs.mainTabs li.active a {
+    background: rgba(0, 0, 0, 0.4);
+}
+.profilePage .tabs.mainTabs li a:hover {
+    background: rgba(0, 0, 0, 0.4);
+}
+.profilePage .messageSimple .commentMore, .profilePage .messageSimple .likesSummary {
+    background: transparent;
+    margin: 15px -15px -15px;
+    padding: 8px;
+}
+.profilePage .messageSimple .likesSummary .LikeText:before {
+    content: "^ ";
+}
+.messageSimple .messageMeta .item.InlineModCheck {
+    margin-right: 5px;
+}
+.dark_postrating_member td {
+    border: 0;
+}
+.discussionListItem {
+    background: rgba(0, 0, 0, 0.2);
+    border: 0;
+}
+.discussionListItem .stats dl {
+    border: 0;
+}
+.discussionListItems .unread .title a {
+    color: var(--main-tertiary-bg-color);
+}
+.discussionListItems .unread .lastPostInfo .username {
+    color: var(--main-tertiary-bg-color);
+}
+.prefix {
+    border: 0;
+    border-radius: 0;
+}
+.messageSimpleList.topBorder {
+    border: 0;
+}
+.discussionList .sectionHeaders {
+    background: rgba(0, 0, 0, 0.4);
+    border: 0;
+    padding: 5px 0;
+}
+.itemPageNav a, .itemPageNav span {
+    border: 0;
+    padding: 5px;
+    background: transparent;
+}
+body .itemPageNav a {
+    border: 0;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    padding: 5px;
+}
+body .itemPageNav a:hover {
+    background: rgba(0, 0, 0, 0.2);
+    color: var(--main-tertiary-bg-color);
+}
+.xenOverlay.memberCard .userLinks a {
+    color: var(--main-tertiary-bg-color);
+}
+.xenOverlay.memberCard .userInfo h3 a {
+    color: var(--main-pimary-bg-color);
+}
+.discussionList .discussionListItem.deleted {
+    background: rgba(0, 0, 0, 0.4);
+}
+.discussionList .discussionListItem.sticky {
+    background: rgba(0, 0, 0, 0.6);
+    font-style: normal;
+}
+.discussionList .sectionHeaders dd a[href]:hover {
+    background: transparent;
+}
+.forum_list .nodeList .nodeList, .forum_view .nodeList, .category_view .nodeList, .watch_forums .nodeList {
+    border: 0;
+    border-radius: 0;
+}
+a.prefixLink:hover .prefix {
+    border: 0;
+}
+.uix_stickyThreads .itemPageNav a {
+    background: rgba(255, 255, 255, 0.05);
+}
+.uix_stickyThreads .itemPageNav a:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+.eventList li, html .searchResult {
+    border: 0;
+}
+.profilePage .eventList li {
+    padding: 15px;
+}
+.profilePage .eventList:first-of-type li:first-child {
+    padding-top: 15px;
+}
+.searchResult .snippet a {
+    color: var(--main-text-color);
+}
+.profileContent .section .textHeading {
+    margin: 0;
+}
+.avatarScaler span img {
+    max-width: 190px;
+}
+iframe {
+    border: 0;
+}
+.MedalCategory .primaryContent {
+    background: transparent;
+}
+.navigationSideBar>ul {
+    border: 0;
+    background: transparent;
+}
+.navigationSideBar>ul, .navigationSideBar>ul>li.section:last-child>ul>li:last-child, .navigationSideBar>ul>li.section:last-child>ul>li:last-child a {
+    border-radius: 0;
+}
+.mainContentBlock {
+    padding: 15px;
+}
+.bbCode>dl>dd {
+    border: 0;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    padding: 10px;
+    margin-top: 10px;
+}
+.hasJs .bbCodeSpoilerText {
+    background: rgba(0, 0, 0, 0.2);
+    border: 0;
+}
+.navigationSideBar .section {
+    background: var(--main-bg-color);
+}
+.messageSimple .comment .commentInfo .likesSummary {
+    padding: 0 0 10px;
+}
+.resourceInfo .resourceImage .resourceIcon, .resourceListItem .resourceImage .resourceIcon img, .avatar img, .avatar .img, .avatarCropper {
+    background-color: transparent;
+}
+.actionFilterRow {
+    margin-top: 0;
+    padding: 8px;
+}
+.resourceListMain .pageNavLinkGroup {
+    padding: 0;
+    background: rgba(0, 0, 0, 0.4);
+    margin: 8px 0 0;
+}
+.pageNavLinkGroup .linkGroup {
+    margin: 5px 25px 5px;
+}
+#DiscussionListOptionsHandle a {
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    color: var(--main-text-color);
+}
+.DiscussionListOptions.secondaryContent {
+    background: rgba(0, 0, 0, 0.2);   
+}
+.DiscussionListOptions {
+    margin: 0 auto;
+}
+
+/* > ? < */
+.messageSimple .comment, .messageSimple .secondaryContent {
+    padding: 15px;
+    width: 100%;
+    background: var(--main-bg-color);
+}
+.sidebar .section .sectionFooter {
+    margin-top: 0 !important;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+textarea.textCtrl.Elastic {
+    padding: 10px;
+}
+
+#donationTarget, #donationAmount, select[name="currency_code"] {
+    box-sizing: border-box;
+    width: 100%;
+    border: 0;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    color: var(--main-donation-text-color);
+    background: #151829;
+}
+
+#donationTarget, #donationAmount {
+    margin-bottom: 10px;
+}
+
+.section.updates {
+    margin: 15px 0 30px;
+    padding: 15px;
+}
+
+.section.updates .textHeading, .section.reviews .textHeading {
+    color: var(--main-text-color);
+}
+
+.textCtrl {
+    background-color: var(--main-searchinput-bg-color);
+    color: var(--main-text-color)
+}
+.PageNav a.currentPage {
+    background: var(--main-currentpage-color);
+}
+/*
+Original theme made by mathhulk
+    https://www.spigotmc.org/members/mathhulk.138878/
+Redesign by fangster
+    https://www.spigotmc.org/members/fangster.649086/
+Dark Purple-SpigotMC
+	https://gist.github.com/TheFangster/91b8c33f5b2bb461ec9d05992ecacddd
+*/
+}
