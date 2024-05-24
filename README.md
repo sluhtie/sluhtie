@@ -30,6 +30,7 @@
   Feel free to contact me for any commissions or requests.<br>
   The price for an order depends <b>100%</b> on the request of the customer.<br>
 </p>
+
 > In order to ensure both security and trust in our commission projects, I require a 40% down payment upfront.
 <p align="left">
   <a href="https://github.com/sluhtie" target="_blank">
