@@ -7,7 +7,7 @@
   </p>
   <p align="center">
     I am currently completing my high school diploma at a technical school in Hamburg, Germany.<br>
-    Contact me for comissions or other requests via email.
+    Contact me for comissions or other requests via email or Discord.
   </p>
   <p align="center">
     Current Projects: https://tryjump.net/ & https://discord.adventuresmp.de
@@ -30,7 +30,7 @@
   Feel free to contact me for any commissions or requests.<br>
   The price for an order depends <b>100%</b> on the request of the customer.<br>
 </p>
-
+> In order to ensure both security and trust in our commission projects, I require a 40% down payment upfront.
 <p align="left">
   <a href="https://github.com/sluhtie" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -41,15 +41,10 @@
   <a href="mailto:connor@cwcodes.de" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.gg/NeSpWMmrum" target="_blank">
+  <a href="https://discord.gg/sEBHby9XPJ" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://t.me/connorhmb" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 </p>
-
-> In order to ensure both security and trust in our commission projects, I require a 40% down payment upfront.
 
 
 <!-- Languages & Tools -->
@@ -59,14 +54,13 @@
 These are just some of the tools I use to bring my Ideas to reality.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Gitbook-326CE5?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" />
-  <img src="https://img.shields.io/badge/-Adminer-47A8E6?style=for-the-badge&logo=adminer&logoColor=white" alt="Adminer" />
+  <img src="https://img.shields.io/badge/-Gitbook-3F89A1?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" />
   <img src="https://img.shields.io/badge/-Java-f58219?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Replit-f26201?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/-Hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
   <img src="https://img.shields.io/badge/-Figma-c44ad4?style=for-the-badge&logoColor=white&logo=figma" alt="Figma" />
   <img src="https://img.shields.io/badge/-Minecraft-22a33c?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
-  <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-Visual Studio Code-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
 </p>
 
 Currently I am also learning several programming languages, including Python, Java, and JavaScript, as well as markup languages like HTML and CSS.
