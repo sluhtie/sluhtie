@@ -58,7 +58,7 @@ These are just some of the tools I use to bring my Ideas to reality.
   <img src="https://img.shields.io/badge/-Gitbook-3F89A1?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" />
   <img src="https://img.shields.io/badge/-Java-f58219?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/-Figma-c44ad4?style=for-the-badge&logoColor=white&logo=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Doxbin-c44ad4?style=for-the-badge&logoColor=white" alt="Doxbin" />
   <img src="https://img.shields.io/badge/-Minecraft-22a33c?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/-Visual Studio Code-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
