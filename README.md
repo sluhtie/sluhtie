@@ -20,7 +20,7 @@
 - 👤 **Pronouns:** he/him
 - 🎧 **Music taste:** I love listening to `lofi` and `EDM`.
 - 🎮 **Favorite games:** I enjoy playing `Minecraft` and `Valorant`.
-- 🌎 **Languages:** I speak `English` natively and `German` fluently.
+- 🌎 **Languages:** I speak `German` natively and `English` fluently.
 
 <!-- Contact & Comissions -->
 <br>
