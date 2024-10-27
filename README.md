@@ -10,7 +10,7 @@
     Contact me for comissions or other requests via email or Discord.
   </p>
   <p align="center">
-    Current Projects: https://tryjump.net/ & https://discord.adventuresmp.de
+    Current Project: https://adventuresmp.de
   </a>
 </p>
 
