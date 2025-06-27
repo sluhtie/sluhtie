@@ -10,7 +10,7 @@
     Contact me for comissions or other requests via email or Discord.
   </p>
   <p align="center">
-    <a href="https://discord.gg/adventuresmp"><img src="https://img.shields.io/badge/-AdventureSMP-D14836?style=for-the-badge&logo=minetest&logoColor=white" alt="Email" /></a>
+    <a href="https://discord.gg/unitysmp"><img src="https://img.shields.io/badge/-UnitySMP-2F92E0?style=for-the-badge&logo=minetest&logoColor=white" alt="Email" /></a>
   </a>
 </p>
 
