@@ -6,11 +6,14 @@
     I'm very experienced at making Minecraft servers and writing <a href="https://github.com/SkriptLang/Skript" target="_blank">scripts</a>
   </p>
   <p align="center">
-    I am currently completing my high school diploma at a technical school in Germany.<br>
-    Contact me for comissions or other requests via email or Discord.
+    I am currently working on building a company which specializes in Web Development using NextJS.<br>
+    You can contact me via Discord, Email or by visiting our website at <a href="https://webnify.dev">webnify.dev</a>
   </p>
+  <br>
   <p align="center">
-    <a href="https://discord.gg/unitysmp"><img src="https://img.shields.io/badge/-UnitySMP-2F92E0?style=for-the-badge&logo=minetest&logoColor=white" alt="Email" /></a>
+    <!--<a href="https://discord.gg/unitysmp"><img src="https://img.shields.io/badge/-UnitySMP-2F92E0?style=for-the-badge&logo=minetest&logoColor=white" alt="Email" /></a>-->
+    <a  href="https://webnify.dev/"><img width="300" alt="image" src="https://github.com/user-attachments/assets/d4a6ad27-256d-45bb-b896-975c5e4bb74f" /></a>
+    <br>
   </a>
 </p>
 
