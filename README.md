@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://orbt.gg">
-    <img src="./assets/ORBT.GG%20Text%20Banner%20Light.png" alt="ORBT.GG — Elevate your Discord community" width="520" />
+    <img src="./assets/ORBT.GG%20Text%20Banner%20Light.png" alt="ORBT.GG — Elevate your Discord community" width="360" />
   </a>
 </p>
 
