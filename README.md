@@ -43,10 +43,15 @@
 <br>
 
 <!-- Current Project -->
-<h2 align="center">🌌 Current Focus — Orbt</h2>
+<h2 align="center">🌌 Current Focus</h2>
 
 <p align="center">
-  <b>The next-gen Discord experience.</b><br>
+  <a href="https://orbt.gg">
+    <img src="./assets/ORBT.GG%20Text%20Banner%20Light.png" alt="ORBT.GG — Elevate your Discord community" width="520" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://orbt.gg">orbt.gg</a> · built under <a href="https://github.com/beeomatic">Beeomatic</a>
 </p>
 
